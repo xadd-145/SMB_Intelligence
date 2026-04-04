@@ -1,6 +1,6 @@
 # Microsoft SMB Intelligence Engine
 
-A production-style analytics engineering and decision intelligence system designed to identify **which SMB customers Microsoft should act on today — and exactly what action to take — to maximize revenue retention and growth.**
+A production-style analytics engineering and decision intelligence system designed to identify **which SMB customers Microsoft should act on today and exactly what action to take inorder to maximize revenue retention and growth.**
 
 ---
 
@@ -30,7 +30,7 @@ This system enables **proactive intervention** using data-driven signals.
 
 ## Core Question
 
-> **Which SMB customers should Microsoft act on today — and what specific action should each account receive — to maximize revenue retention and growth?**
+> **Which SMB customers should Microsoft act on today and what specific action should each account receive to maximize revenue retention and growth?**
 
 ---
 
